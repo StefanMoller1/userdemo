@@ -1,0 +1,30 @@
+.user_details {
+  list-style: none;
+  padding-inline-start: 0;
+}
+
+.user_modal>div {
+  width: 50%;
+  max-width: 50%;
+}
+
+.footer {
+  background-color: #F8F8F8;
+  border-top: 2px solid #E7E7E7;
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+}
+
+.loader {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  padding: 25%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
